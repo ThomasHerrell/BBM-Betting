@@ -55,6 +55,7 @@ include('includes/config.php');
 			<ol class="breadcrumb">
 				<li class="breadcrumb-item">
 					<a href="index.php">Home</a>
+					<a href="index.php">Hom1e</a>
 				</li>
 				<li class="breadcrumb-item active" aria-current="page">About Us</li>
 			</ol>
