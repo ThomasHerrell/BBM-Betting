@@ -5,7 +5,7 @@ include('includes/config.php');
 
 <!DOCTYPE html>
 <html lang="zxx">
-
+<>
 <head>
 	<title>Blood Bank Donar Management System | About Us </title>
 	<!-- Meta tag Keywords -->
