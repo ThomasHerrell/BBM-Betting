@@ -3,7 +3,7 @@ session_start();
 error_reporting(0);
 include('includes/config.php');
 if(isset($_POST['send']))
-  {
+{
 $name=$_POST['fullname'];
 $email=$_POST['email'];
 $contactno=$_POST['contactno'];
@@ -18,7 +18,6 @@ $query->execute();
 $lastInsertId = $dbh->lastInsertId();
 if($lastInsertId)
 {
-
 echo '<script>alert("Query Sent. We will contact you shortly.")</script>';
 }
 else 
@@ -42,7 +41,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 		}, false);
 
 		function hideURLbar() {
-			window.scrollTo(0, 1);
+			window.scrollTo(0, 2);
 		}
 	</script>
 	<!--// Meta tag Keywords -->
