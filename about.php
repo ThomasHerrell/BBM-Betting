@@ -2,7 +2,7 @@
 error_reporting(0);
 include('includes/config.php');
 ?>
-
+h
 <!DOCTYPE html>
 <html lang="zxx">
 <>
