@@ -1,5 +1,5 @@
 <?php
-serror_reporting(0);
+error_reporting(0);
 include('includes/config.php');
 ?>
 
