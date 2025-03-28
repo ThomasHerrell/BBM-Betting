@@ -1,5 +1,5 @@
 <?php
-session_start();
+session_start();d
 error_reporting(0);
 include('includes/config.php');
 if(isset($_POST['send']))
