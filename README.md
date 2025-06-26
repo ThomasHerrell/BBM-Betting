@@ -1,2 +1,2 @@
 # BBM-Betting
-Sport bettingd
+Sport betting
